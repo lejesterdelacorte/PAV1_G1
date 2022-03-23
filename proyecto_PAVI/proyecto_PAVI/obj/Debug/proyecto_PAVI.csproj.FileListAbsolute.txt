@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\proyecto_PAVI\proyecto_PAVI\bin\Debug\proyecto_PAVI.exe.config
+C:\Users\Asus\source\repos\proyecto_PAVI\proyecto_PAVI\bin\Debug\proyecto_PAVI.exe
+C:\Users\Asus\source\repos\proyecto_PAVI\proyecto_PAVI\bin\Debug\proyecto_PAVI.pdb
+C:\Users\Asus\source\repos\proyecto_PAVI\proyecto_PAVI\obj\Debug\proyecto_PAVI.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\proyecto_PAVI\proyecto_PAVI\obj\Debug\proyecto_PAVI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\proyecto_PAVI\proyecto_PAVI\obj\Debug\proyecto_PAVI.frm_escritorio.resources
+C:\Users\Asus\source\repos\proyecto_PAVI\proyecto_PAVI\obj\Debug\proyecto_PAVI.Properties.Resources.resources
+C:\Users\Asus\source\repos\proyecto_PAVI\proyecto_PAVI\obj\Debug\proyecto_PAVI.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\proyecto_PAVI\proyecto_PAVI\obj\Debug\proyecto_PAVI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\proyecto_PAVI\proyecto_PAVI\obj\Debug\proyecto_PAVI.exe
+C:\Users\Asus\source\repos\proyecto_PAVI\proyecto_PAVI\obj\Debug\proyecto_PAVI.pdb
